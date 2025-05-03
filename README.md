@@ -59,7 +59,8 @@ A series of simulated phishing emails were sent to employees across various depa
 
 ## 🖼️ Default Image
 
-![Phishing Simulation](https://via.placeholder.com/800x400.png?text=Phishing+Simulation+Report)
+![Phishing Simulation]
+(https://github.com/AshikAhmed007/Phishing-Campaign-Analyzer/blob/main/go1.png)
 
 ---
 
@@ -86,6 +87,6 @@ A series of simulated phishing emails were sent to employees across various depa
 ---
 
 ## 👨‍💻 Report by: Ashik Ahmed  
-Cybersecurity Enthusiast | Ethical Hacker  
+Web Pentester | Cybersecurity Enthusiast  
 📧 ashikahmedgd007@gmail.com  
-🔗 [GitHub](https://github.com/AshikAhmed007)
+🔗 [GitHub](https://github.com/your-github-username) | [LinkedIn](https://linkedin.com/in/your-profile)
