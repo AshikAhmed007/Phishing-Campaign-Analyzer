@@ -57,12 +57,6 @@ A series of simulated phishing emails were sent to employees across various depa
 
 ---
 
-## 🖼️ Default Image
-
-![Phishing Simulation]
-(https://github.com/AshikAhmed007/Phishing-Campaign-Analyzer/blob/main/go1.png)
-
----
 
 ## ✅ Recommendations
 
